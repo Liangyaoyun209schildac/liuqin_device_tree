@@ -1,10 +1,10 @@
-# Android device tree for Xiaomi 23046RP50C (liuqin)
-
-```
 #
 # Copyright (C) 2023 The Android Open Source Project
 # Copyright (C) 2023 SebaUbuntu's TWRP device tree generator
 #
 # SPDX-License-Identifier: Apache-2.0
 #
-```
+
+add_lunch_combo omni_liuqin-user
+add_lunch_combo omni_liuqin-userdebug
+add_lunch_combo omni_liuqin-eng
